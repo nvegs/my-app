@@ -1,10 +1,6 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project also serves as a practice project for udacity tutorial by maximillian swartzmuller
-Where i followed a step by step tutorial to building the expense item all by myself.
-
-Still improving myself with udacity
 
 ## Available Scripts
 
